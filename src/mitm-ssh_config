@@ -1,0 +1,29 @@
+
+
+# Port to listen on
+#Port 22
+
+# Protocols to accept
+#Protocol 2,1
+
+# IPv4 address to listen on
+#ListenAddress 0.0.0.0
+
+# HostKey for protocol version 1
+#HostKey /etc/ssh/mitm-ssh_host_key
+# HostKeys for protocol version 2
+#HostKey /etc/ssh/mitm-ssh_host_rsa_key
+#HostKey /etc/ssh/mitm-ssh_host_dsa_key
+
+# Where to store the PID file
+#PidFile /var/run/mitm-ssh.pid
+
+# Where to store passwords
+#PasswdLogFile /var/log/mitm-ssh/passwd.log
+
+# Where to store data sent from client to server
+#ClientToServerLogDir /var/log/mitm-ssh
+
+# Where to store data sent from server to client
+#ServerToClientLogDir /var/log/mitm-ssh
+
