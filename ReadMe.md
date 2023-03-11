@@ -74,5 +74,6 @@
 
 
 Have Fun, and behave :-)
-/C <cmn@signedness.org.com>
+
+/C <cmn@signedness.org>
 
