@@ -1,7 +1,7 @@
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
             
              SSH Man In The Middle tool
-             Copyright (C) 2005 Claes M Nyberg <cmn@signedness.org.com>
+             Copyright (C) 2005 Claes M Nyberg <cmn@signedness.org>
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
